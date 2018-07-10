@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SortedPropertiesTest.iml" filepath="$PROJECT_DIR$/SortedPropertiesTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SortedPropertiesTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SortedPropertiesTest_main.iml" group="SortedPropertiesTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SortedPropertiesTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SortedPropertiesTest_test.iml" group="SortedPropertiesTest" />
+    </modules>
+  </component>
+</project>
