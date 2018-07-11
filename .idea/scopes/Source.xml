@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Source" pattern="file[SortedPropertiesTest_main]:groovy/com/example/App.groovy||file[SortedPropertiesTest]:build.gradle" />
+</component>

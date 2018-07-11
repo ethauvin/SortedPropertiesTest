@@ -1,0 +1,15 @@
+<component name="CopyrightManager">
+  <settings default="Erik's Copyright Notice">
+    <module2copyright>
+      <element module="Source" copyright="Erik's Copyright Notice" />
+    </module2copyright>
+    <LanguageOptions name="Groovy">
+      <option name="fileTypeOverride" value="3" />
+      <option name="addBlankAfter" value="false" />
+    </LanguageOptions>
+    <LanguageOptions name="JAVA">
+      <option name="fileTypeOverride" value="3" />
+      <option name="addBlankAfter" value="false" />
+    </LanguageOptions>
+  </settings>
+</component>
